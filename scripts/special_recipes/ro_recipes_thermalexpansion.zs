@@ -7,4 +7,4 @@ import crafttweaker.oredict.IOreDictEntry;
 import mods.thermalexpansion.Pulverizer;
 
 // Main
-mods.thermalexpansion.Pulverizer.addRecipe(<grimoireofgaia:shard:2> * 2, <scalinghealth:heartcontainer>, 1500, <grimoireofgaia:shard:3> * 2, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:diamond>, <scalinghealth:heartcontainer>, 1500, <minecraft:emerald>, 100);

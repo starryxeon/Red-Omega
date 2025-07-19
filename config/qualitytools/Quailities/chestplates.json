@@ -11,7 +11,12 @@
       }
     ],
     "blacklist": [
-    
+      {
+        "item": "draconicevolution:wyvern_chest"
+      },
+      {
+        "item": "draconicevolution:draconic_chest"
+      }
     ],
     "qualities": [
       {

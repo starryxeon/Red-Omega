@@ -93,7 +93,7 @@
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_helm, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:wyvern_helm", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 50000000, 
         "tier": 2, 
         "ingredients": [ 
@@ -108,14 +108,14 @@
             "draconicevolution:draconic_energy_core",
             "draconicevolution:awakened_core",
             "draconicevolution:awakened_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:wyvern_helm"
         ] 
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_chest, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:wyvern_chest", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 50000000, 
         "tier": 2, 
         "ingredients": [ 
@@ -130,14 +130,14 @@
             "draconicevolution:draconic_energy_core",
             "draconicevolution:awakened_core",
             "draconicevolution:awakened_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:wyvern_chest"
         ] 
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_legs, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:wyvern_legs", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 50000000, 
         "tier": 2, 
         "ingredients": [ 
@@ -152,14 +152,14 @@
             "draconicevolution:draconic_energy_core",
             "draconicevolution:awakened_core",
             "draconicevolution:awakened_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:wyvern_legs"
         ] 
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_boots, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:wyvern_boots", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 50000000, 
         "tier": 2, 
         "ingredients": [ 
@@ -174,14 +174,14 @@
             "draconicevolution:draconic_energy_core",
             "draconicevolution:awakened_core",
             "draconicevolution:awakened_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:wyvern_boots"
         ] 
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_sword", 
-        "catalyst": "draconicevolution:wyvern_sword",
+        "catalyst": "draconicevolution:chaotic_core",
         "energy": 50000000, 
         "tier": 2, 
         "ingredients": [ 
@@ -196,28 +196,28 @@
             "draconicevolution:draconic_energy_core",
             "draconicevolution:awakened_core",
             "draconicevolution:awakened_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:wyvern_sword"
         ] 
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_hoe", 
-        "catalyst": "iceandfire:dragonbone_hoe",
+        "catalyst": "draconicevolution:awakened_core",
         "energy": 512000, 
         "tier": 2, 
         "ingredients": [ 
             "draconicevolution:draconic_energy_core",
-            "draconicevolution:awakened_core",
             "draconicevolution:draconic_block",
-            "draconicevolution:draconic_block"
+            "draconicevolution:draconic_block",
+            "iceandfire:dragonbone_hoe"
         ] 
     },
     
     { 
         "mode": "ADD", 
         "result": "draconicevolution:wyvern_bow", 
-        "catalyst": "iceandfire:dragonbone_bow",
+        "catalyst": "draconicevolution:chaotic_core",
         "energy": 25000000, 
         "tier": 1, 
         "ingredients": [ 
@@ -232,14 +232,14 @@
             "draconicevolution:wyvern_energy_core", 
             "draconicevolution:wyvern_core",
             "draconicevolution:wyvern_core",
-            "draconicevolution:chaotic_core"
+            "iceandfire:dragonbone_bow"
         ] 
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_bow", 
-        "catalyst": "draconicevolution:wyvern_bow",
+        "catalyst": "draconicevolution:chaotic_core",
         "energy": 250000000, 
         "tier": 2, 
         "ingredients": [ 
@@ -254,14 +254,14 @@
             "draconicevolution:draconic_energy_core",
             "draconicevolution:chaotic_core", 
             "draconicevolution:chaotic_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:wyvern_bow"
         ]
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_staff_of_power", 
-        "catalyst": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:chaotic_core",
         "energy": 100000000, 
         "tier": 2, 
         "ingredients": [ 
@@ -276,14 +276,14 @@
             "draconicevolution:draconic_energy_core",
             "draconicevolution:draconic_energy_core",
             "draconicevolution:awakened_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:draconic_pick"
         ]
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicadditions:chaotic_helm, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:draconic_helm", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 200000000, 
         "tier": 3, 
         "ingredients": [ 
@@ -298,14 +298,14 @@
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:draconic_helm"
         ]
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicadditions:chaotic_chest, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:draconic_chest", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 200000000, 
         "tier": 3, 
         "ingredients": [ 
@@ -320,14 +320,14 @@
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:draconic_chest"
         ]
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicadditions:chaotic_legs, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:draconic_legs", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 200000000, 
         "tier": 3, 
         "ingredients": [ 
@@ -342,14 +342,14 @@
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:draconic_legs"
         ]
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicadditions:chaotic_boots, 1, 0, {Unbreakable: 1b}",
-        "catalyst": "draconicevolution:draconic_boots", 
+        "catalyst": "draconicevolution:chaotic_core", 
         "energy": 200000000, 
         "tier": 3, 
         "ingredients": [ 
@@ -364,7 +364,7 @@
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:draconic_boots"
         ]
     },
 
@@ -372,7 +372,7 @@
     { 
         "mode": "ADD", 
         "result": "draconicadditions:chaotic_bow", 
-        "catalyst": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:chaotic_core",
         "energy": 1000000000, 
         "tier": 3, 
         "ingredients": [ 
@@ -387,14 +387,14 @@
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:draconic_bow"
         ]
     },
 
     { 
         "mode": "ADD", 
         "result": "draconicadditions:chaotic_staff_of_power", 
-        "catalyst": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:chaotic_core",
         "energy": 1000000000, 
         "tier": 3, 
         "ingredients": [ 
@@ -409,7 +409,7 @@
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core",
-            "draconicevolution:chaotic_core"
+            "draconicevolution:draconic_staff_of_power"
         ]
     },
 

@@ -15,7 +15,6 @@ recipes.remove(<opencomputers:material:12>);
 //recipes.remove(<erebus:silk>);
 recipes.remove(<bountifulbaubles:ringiron>);
 recipes.remove(<minecraft:chest> * 4);
-recipes.remove(<ic2:te:111>);
 recipes.remove(<cfm:wreath>);
 recipes.remove(<randomthings:soundbox>);
 recipes.remove(<immersiveengineering:material:1> * 4);
@@ -79,13 +78,6 @@ recipes.addShaped(<minecraft:chest> * 4, [
 	[<minecraft:log:0>, <minecraft:log:0>, <minecraft:log:0>],
 	[<minecraft:log:0>, null, <minecraft:log:0>],
 	[<minecraft:log:0>, <minecraft:log:0>, <minecraft:log:0>]
-]);
-
-//IC2 Wooden Storage Box
-recipes.addShaped(<ic2:te:111>, [
-	[<ore:logWood>, null, <ore:logWood>],
-	[null, <ore:chestWood>, null],
-	[<ore:logWood>, null, <ore:logWood>]
 ]);
 
 //CFM Wreath

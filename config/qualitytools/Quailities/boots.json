@@ -10,7 +10,12 @@
       }
     ],
     "blacklist": [
-    
+      {
+        "item": "draconicevolution:wyvern_boots"
+      },
+      {
+        "item": "draconicevolution:draconic_boots"
+      }
     ],
     "qualities": [
       {
