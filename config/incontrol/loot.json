@@ -50,8 +50,7 @@
 			"thaumcraft:eldritchgolem",
 			"thaumcraft:eldritchwarden",
 			"thaumcraft:taintaclegiant",
-			"iceandfire:dread_queen",
-			"lost_aether:king_aerwhale"
+			"iceandfire:dread_queen"
 		],
 		"player": true,
 		"item": [
