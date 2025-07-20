@@ -1,17 +1,21 @@
-Red Omega
-Minecraft Modpack
+![smallbanner-reduced](https://github.com/user-attachments/assets/a4cf40e4-5873-4b62-a56d-f591ceea2e77)
 
-----------------------------------------------------------------------------------------------------------------------------------------
+# Minecraft: Red Omega
 
-Red Omega is a modpack for Minecraft 1.12.2 centered around creating a challenging experience while also integrating exploration, magic, and technology.
+A challenging RLCraft-inspired modpack centric on difficulty whilst keeping a tech and magic theme.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+## Our Discord Server
 
-Requirements:
+If you'd be interested in keeping up with Red Omega and you'd like to join our Discord community here is an invite:
+
+[![Join the Discord Server](https://discordapp.com/api/guilds/622259832506023986/widget.png?style=banner4)](https://discord.gg/QeJ7eDeYD8)
+
+## General Requirements:
 
 Minecraft Forge: 14.23.5.2860 required.
 
-At least 4 GB of RAM allocated to Minecraft.
+6 GB of RAM allocated to Minecraft is recommended for optimal performance.
 
-*Example JVM arguments with 6 GB RAM:
--XX:+UseG1GC -Xmx6G -Xms6G -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+## Issues
+
+If you run into any issues, please report it to us under the Issues tab.
