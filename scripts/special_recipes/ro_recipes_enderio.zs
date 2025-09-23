@@ -11,7 +11,7 @@ import mods.enderio.Enchanter;
 
 // Main
 // Make Heart Crystal deconstruction recipe
-mods.enderio.SagMill.addRecipe([<grimoireofgaia:shard:2> * 2, <grimoireofgaia:shard:3> * 2, <minecraft:redstone>], [100, 100, 100], <scalinghealth:heartcontainer>);
+mods.enderio.SagMill.addRecipe([<minecraft:diamond>, <minecraft:emerald>, <minecraft:redstone>], [100, 100, 100], <scalinghealth:heartcontainer>);
 
 // Remove respiration
 mods.enderio.Enchanter.removeRecipe(<enchantment:minecraft:respiration>);

@@ -71,10 +71,5 @@
     "content": "abyssalcraft:oc",
     "unitWorth": 25600,
     "weight": 10
-  },
-  {
-    "content": "grimoireofgaia:misc_elytra",
-    "unitWorth": 32000,
-    "weight": 10
   }
 ]

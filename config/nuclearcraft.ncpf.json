@@ -7151,44 +7151,6 @@
                       "self_priming": true
                     }
                   }
-                },
-                {
-                  "name": "ic2:nuclear",
-                  "metadata": 0,
-                  "type": "legacy_item",
-                  "modules": {
-                    "nuclearcraft:overhaul_sfr:fuel_stats": {
-                      "heat": 113,
-                      "output": {
-                        "oredict": "depletedFuelIC2U",
-                        "type": "oredict",
-                        "modules": {}
-                      },
-                      "efficiency": 1.0,
-                      "criticality": 102,
-                      "time": 15200,
-                      "self_priming": false
-                    }
-                  }
-                },
-                {
-                  "name": "ic2:nuclear",
-                  "metadata": 4,
-                  "type": "legacy_item",
-                  "modules": {
-                    "nuclearcraft:overhaul_sfr:fuel_stats": {
-                      "heat": 169,
-                      "output": {
-                        "oredict": "depletedFuelIC2MOX",
-                        "type": "oredict",
-                        "modules": {}
-                      },
-                      "efficiency": 1.05,
-                      "criticality": 94,
-                      "time": 91434,
-                      "self_priming": false
-                    }
-                  }
                 }
               ]
             },
@@ -8862,21 +8824,6 @@
           }
         },
         {
-          "name": "ic2coolant",
-          "type": "legacy_fluid",
-          "modules": {
-            "nuclearcraft:overhaul_sfr:coolant_recipe_stats": {
-              "heat": 160,
-              "output": {
-                "name": "ic2hot_coolant",
-                "type": "legacy_fluid",
-                "modules": {}
-              },
-              "output_ratio": 1.0
-            }
-          }
-        },
-        {
           "name": "nak",
           "type": "legacy_fluid",
           "modules": {
@@ -9370,11 +9317,6 @@
           "elements": [
             {
               "name": "high_pressure_steam",
-              "type": "legacy_fluid",
-              "modules": {}
-            },
-            {
-              "name": "ic2hot_coolant",
               "type": "legacy_fluid",
               "modules": {}
             },
@@ -9940,16 +9882,6 @@
             },
             {
               "oredict": "ingotDepletedHECf251ZA",
-              "type": "oredict",
-              "modules": {}
-            },
-            {
-              "oredict": "depletedFuelIC2U",
-              "type": "oredict",
-              "modules": {}
-            },
-            {
-              "oredict": "depletedFuelIC2MOX",
               "type": "oredict",
               "modules": {}
             },
@@ -10979,30 +10911,6 @@
                 "plannerator:tags": {
                   "tags": [
                     "ingotDepletedHECf251ZA"
-                  ]
-                }
-              }
-            },
-            {
-              "name": "nuclearcraft:depleted_fuel_ic2",
-              "metadata": 0,
-              "type": "legacy_item",
-              "modules": {
-                "plannerator:tags": {
-                  "tags": [
-                    "depletedFuelIC2U"
-                  ]
-                }
-              }
-            },
-            {
-              "name": "nuclearcraft:depleted_fuel_ic2",
-              "metadata": 1,
-              "type": "legacy_item",
-              "modules": {
-                "plannerator:tags": {
-                  "tags": [
-                    "depletedFuelIC2MOX"
                   ]
                 }
               }

@@ -7,11 +7,6 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
 
-//Remove Blood Magic Items
-mods.jei.JEI.removeAndHide(<item:bloodmagic:bound_pickaxe>);
-mods.jei.JEI.removeAndHide(<item:bloodmagic:sigil_whirlwind>);
-mods.jei.JEI.removeAndHide(<item:bloodmagic:sigil_phantom_bridge>);
-
 //Remove Aether Legacy items
 mods.jei.JEI.removeAndHide(<item:aether_legacy:life_shard>);
 mods.jei.JEI.removeAndHide(<item:aether_legacy:invisibility_cape>);
@@ -79,6 +74,3 @@ mods.jei.JEI.removeAndHide(<item:red_omega_custom_swords:henticle>);
 
 //Remove ExtraBotany Nature Orb
 mods.jei.JEI.removeAndHide(<item:extrabotany:natureorb>);
-
-//Remove IC2 Chunkloader
-mods.jei.JEI.removeAndHide(<ic2:te:82>);

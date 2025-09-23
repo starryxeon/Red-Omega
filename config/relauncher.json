@@ -1,5 +1,5 @@
 {
-  "selectedVersion": "0.3.4-alpha",
-  "latestVersion": "0.3.4-alpha",
-  "javaPath": "C:\\Program Files\\Java\\jdk-21\\bin\\javaw.exe"
+  "selectedVersion": "0.3.10-alpha",
+  "latestVersion": "0.3.10-alpha",
+  "javaPath": "/usr/lib/jvm/java-21-openjdk/bin/java"
 }

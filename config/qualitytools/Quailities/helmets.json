@@ -10,7 +10,12 @@
       }
     ],
     "blacklist": [
-    
+      {
+        "item": "draconicevolution:wyvern_helm"
+      },
+      {
+        "item": "draconicevolution:draconic_helm"
+      }
     ],
     "qualities": [
       {
