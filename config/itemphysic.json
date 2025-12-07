@@ -193,7 +193,6 @@
     "ignitingItems": {
       "entries": [
         "{id:\"material\",count:1,material:\"minecraft:flowing_lava\"}",
-        "{id:\"block\",count:1,block:\"minecraft:torch\"}",
         "{id:\"item\",count:1,item:\"minecraft:lava_bucket\"}",
         "{id:\"item\",count:1,item:\"minecraft:blaze_powder\"}"
       ],

@@ -1,6 +1,6 @@
 {
   "name": "gregtech.veins.fluid.oil",
-  "weight": 20,
+  "weight": 0,
   "yield": {
     "min": 175,
     "max": 300
@@ -10,10 +10,5 @@
     "chance": 100,
     "depleted_yield": 25
   },
-  "fluid": "oil",
-  "biome_modifier": {
-    "type": "biome_dictionary",
-    "ocean": 5,
-    "sandy": 5
-  }
+  "fluid": "oil"
 }
