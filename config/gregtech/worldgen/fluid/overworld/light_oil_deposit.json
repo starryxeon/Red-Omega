@@ -1,6 +1,6 @@
 {
   "name": "gregtech.veins.fluid.light_oil",
-  "weight": 25,
+  "weight": 0,
   "yield": {
     "min": 175,
     "max": 300

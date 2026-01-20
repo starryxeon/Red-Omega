@@ -1,6 +1,6 @@
 {
   "name": "gregtech.veins.fluid.raw_oil",
-  "weight": 20,
+  "weight": 0,
   "yield": {
     "min": 200,
     "max": 300
