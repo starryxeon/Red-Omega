@@ -1,0 +1,13 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "thermalexpansion:dynamo",
+        "useDeprecatedSideCheck": true
+    },
+    {
+        "blockId": [
+            "thermalexpansion:tank",
+            "thermalexpansion:strongbox"
+        ]
+    }
+]

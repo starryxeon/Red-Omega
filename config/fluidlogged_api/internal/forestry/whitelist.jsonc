@@ -1,0 +1,61 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "forestry:analyzer",
+        "boxes": [{"min": 0, "max": 1}, {"min": 15, "max": 16}],
+        "canFluidFlow": ["north", "south", "east", "west"]
+    },
+    {
+        "blockId": [
+            "forestry:bee_chest",
+            "forestry:butterfly_chest",
+            "forestry:escritoire",
+            "forestry:genetic_filter",
+            "forestry:leaves.decorative.0",
+            "forestry:leaves.decorative.1",
+            "forestry:leaves.decorative.2",
+            "forestry:tree_chest"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "forestry:bottler",
+            "forestry:carpenter",
+            "forestry:centrifuge",
+            "forestry:fermenter",
+            "forestry:moistener",
+            "forestry:squeezer",
+            "forestry:still"
+        ],
+        "canFluidFlow": ["up", "down", "east", "west"],
+        "states": {"facing": ["north", "south"]}
+    },
+    {
+        "blockId": [
+            "forestry:bottler",
+            "forestry:carpenter",
+            "forestry:centrifuge",
+            "forestry:fermenter",
+            "forestry:moistener",
+            "forestry:squeezer",
+            "forestry:still"
+        ],
+        "canFluidFlow": ["up", "down", "north", "south"],
+        "states": {"facing": ["east", "west"]}
+    },
+    {
+        "blockId": [
+            "forestry:engine_biogas",
+            "forestry:engine_clockwork",
+            "forestry:engine_peat"
+        ],
+        "boxes": [],
+        "useDeprecatedSideCheck": true
+    },
+    {
+        "blockId": "forestry:rainmaker",
+        "boxes": {"min": 0, "max": 1},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]

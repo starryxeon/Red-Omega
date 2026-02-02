@@ -1,0 +1,40 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "botania:animatedtorch",
+            "botania:bellows",
+            "botania:brewery",
+            "botania:cocoon",
+            "botania:corporeacrystalcube",
+            "botania:corporeaindex",
+            "botania:floatingspecialflower",
+            "botania:forestdrum",
+            "botania:foresteye",
+            "botania:hourglass",
+            "botania:incenseplate",
+            "botania:lightlauncher",
+            "botania:miniisland",
+            "botania:pool",
+            "botania:prism",
+            "botania:pump",
+            "botania:pylon",
+            "botania:shinyflower",
+            "botania:sparkchanger",
+            "botania:spawnerclaw",
+            "botania:spreader",
+            "botania:starfield",
+            "botania:terraplate",
+            "botania:teruterubozu",
+            "botania:tinyplanetblock",
+            "botania:tinypotato"
+        ]
+    },
+    {
+        "blockId": [
+            "botania:distributor",
+            "botania:runealtar"
+        ],
+        "canFluidFlow": true
+    }
+]

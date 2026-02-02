@@ -1,0 +1,7 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "disenchanter:disenchantmentTable",
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]

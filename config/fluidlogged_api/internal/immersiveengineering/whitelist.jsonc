@@ -1,0 +1,49 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "immersiveengineering:sheetmetal_slab",
+            "immersiveengineering:stone_decoration_slab",
+            "immersiveengineering:storage_slab",
+            "immersiveengineering:treated_wood_slab"
+        ],
+        "states": {"slabtype": [0, 1]}
+    },
+    {
+        "blockId": "immersiveengineering:cloth_device",
+        "states": {"type": ["balloon", "stripcurtain"]}
+    },
+    {
+        "blockId": "immersiveengineering:connector",
+        "states": {"type": ["breakswitch", "connector_hv", "connector_lv", "connector_mv", "connector_probe", "connector_redstone", "connector_structural", "energy_meter", "redstone_breaker", "relay_hv", "relay_lv", "relay_mv"]}
+    },
+    {
+        "blockId": "immersiveengineering:metal_device1",
+        "canFluidFlow": true,
+        "states": {"type": ["charging_station", "electric_lantern", "floodlight", "fluid_pipe"]}
+    },
+    {
+        "blockId": [
+            "immersiveengineering:metal_decoration1",
+            "immersiveengineering:metal_decoration2",
+            "immersiveengineering:metal_ladder"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "immersiveengineering:wooden_decoration",
+        "canFluidFlow": true,
+        "states": {"type": ["fence", "scaffolding"]}
+    },
+    {
+        "blockId": "immersiveengineering:wooden_device0",
+        "boxes": {"min": 13, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"type": "workbench"}
+    },
+    {
+        "blockId": "immersiveengineering:wooden_device1",
+        "canFluidFlow": true,
+        "states": {"type": ["post", "wallmount"]}
+    }
+]

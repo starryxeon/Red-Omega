@@ -1,0 +1,29 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "draconicevolution:celestial_manipulator",
+            "draconicevolution:crafting_injector",
+            "draconicevolution:dislocator_pedestal",
+            "draconicevolution:draconic_spawner",
+            "draconicevolution:draconium_chest",
+            "draconicevolution:energy_crystal",
+            "draconicevolution:entity_detector",
+            "draconicevolution:fusion_crafting_core",
+            "draconicevolution:potentiometer"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "draconicevolution:disenchanter",
+            "draconicevolution:energy_infuser"
+        ],
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "draconicevolution:particle_generator",
+        "canFluidFlow": true,
+        "states": {"type": "normal"}
+    }
+]

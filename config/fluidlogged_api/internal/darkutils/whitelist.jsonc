@@ -1,0 +1,25 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "darkutils:ender_hopper",
+            "darkutils:ender_pearl_hopper",
+            "darkutils:filter",
+            "darkutils:filter_inverted",
+            "darkutils:grate",
+            "darkutils:monolith"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "darkutils:timer",
+            "darkutils:trap_anchor",
+            "darkutils:trap_move",
+            "darkutils:trap_move_fast",
+            "darkutils:trap_move_hyper",
+            "darkutils:trap_tile"
+        ],
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]

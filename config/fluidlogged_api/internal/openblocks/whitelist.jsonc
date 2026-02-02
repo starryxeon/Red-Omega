@@ -1,0 +1,36 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "openblocks:auto_anvil",
+            "openblocks:beartrap",
+            "openblocks:big_button",
+            "openblocks:big_button_wood",
+            "openblocks:cannon",
+            "openblocks:canvas",
+            "openblocks:donation_station",
+            "openblocks:fan",
+            "openblocks:flag",
+            "openblocks:golden_egg",
+            "openblocks:paint_can",
+            "openblocks:paint_mixer",
+            "openblocks:path",
+            "openblocks:rope_ladder",
+            "openblocks:scaffolding",
+            "openblocks:target",
+            "openblocks:trophy",
+            "openblocks:vacuum_hopper",
+            "openblocks:village_highlighter",
+            "openblocks:xp_drain",
+            "openblocks:xp_shower"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "openblocks:auto_enchantment_table",
+            "openblocks:projector"
+        ],
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]

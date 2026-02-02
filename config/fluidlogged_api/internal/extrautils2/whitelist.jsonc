@@ -1,0 +1,123 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "extrautils2:chunkloader",
+            "extrautils2:creativechest",
+            "extrautils2:drum",
+            "extrautils2:interactionproxy",
+            "extrautils2:klein",
+            "extrautils2:minichest",
+            "extrautils2:opinium",
+            "extrautils2:pipe_3",
+            "extrautils2:playerchest",
+            "extrautils2:poweroverload",
+            "extrautils2:powertransmitter",
+            "extrautils2:redstonelantern",
+            "extrautils2:supermobspawner",
+            "extrautils2:transferholder",
+            "extrautils2:trashcan",
+            "extrautils2:trashcanchest",
+            "extrautils2:trashcanenergy",
+            "extrautils2:trashcanfluid"
+        ]
+    },
+    {
+        "blockId": "extrautils2:terraformer",
+        "states": {"type": "antenna"}
+    },
+    {
+        "blockId": "extrautils2:passivegenerator",
+        "boxes": {"min": 0, "max": 6},
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"generatortype": "player_wind_up"}
+    },
+    {
+        "blockId": "extrautils2:rainbowgenerator",
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"state": "bottom_half"}
+    },
+    {
+        "blockId": "extrautils2:rainbowgenerator",
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"state": "top_half"}
+    },
+    {
+        "blockId": [
+            "extrautils2:spike_creative",
+            "extrautils2:spike_diamond",
+            "extrautils2:spike_gold",
+            "extrautils2:spike_iron",
+            "extrautils2:spike_stone",
+            "extrautils2:spike_wood"
+        ],
+        "boxes": {"min": 15, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"facing": "up"}
+    },
+    {
+        "blockId": [
+            "extrautils2:spike_creative",
+            "extrautils2:spike_diamond",
+            "extrautils2:spike_gold",
+            "extrautils2:spike_iron",
+            "extrautils2:spike_stone",
+            "extrautils2:spike_wood"
+        ],
+        "boxes": {"min": 0, "max": 1},
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"facing": "down"}
+    },
+    {
+        "blockId": [
+            "extrautils2:screen",
+            "extrautils2:spike_creative",
+            "extrautils2:spike_diamond",
+            "extrautils2:spike_gold",
+            "extrautils2:spike_iron",
+            "extrautils2:spike_stone",
+            "extrautils2:spike_wood"
+        ],
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": [
+            "extrautils2:screen",
+            "extrautils2:spike_creative",
+            "extrautils2:spike_diamond",
+            "extrautils2:spike_gold",
+            "extrautils2:spike_iron",
+            "extrautils2:spike_stone",
+            "extrautils2:spike_wood"
+        ],
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": [
+            "extrautils2:screen",
+            "extrautils2:spike_creative",
+            "extrautils2:spike_diamond",
+            "extrautils2:spike_gold",
+            "extrautils2:spike_iron",
+            "extrautils2:spike_stone",
+            "extrautils2:spike_wood"
+        ],
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": [
+            "extrautils2:screen",
+            "extrautils2:spike_creative",
+            "extrautils2:spike_diamond",
+            "extrautils2:spike_gold",
+            "extrautils2:spike_iron",
+            "extrautils2:spike_stone",
+            "extrautils2:spike_wood"
+        ],
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": "west"}
+    }
+]

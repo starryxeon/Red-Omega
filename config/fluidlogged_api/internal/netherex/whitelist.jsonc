@@ -1,0 +1,25 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "netherex:basalt_brick_slab",
+            "netherex:basalt_pillar_slab",
+            "netherex:basalt_slab",
+            "netherex:fiery_nether_brick_slab",
+            "netherex:gloomy_nether_brick_slab",
+            "netherex:icey_nether_brick_slab",
+            "netherex:lively_nether_brick_slab",
+            "netherex:red_nether_brick_slab",
+            "netherex:smooth_basalt_slab"
+        ],
+        "states": {"type": ["bottom", "top"]}
+    },
+    {
+        "blockId": [
+            "netherex:bone_chunk",
+            "netherex:bone_sliver",
+            "netherex:urn_of_sorrow"
+        ],
+        "canFluidFlow": true
+    }
+]

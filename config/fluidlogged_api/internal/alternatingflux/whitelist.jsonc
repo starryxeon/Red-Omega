@@ -1,0 +1,7 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "alternatingflux:connector",
+        "states": { "type": "relay_af" }
+    }
+]

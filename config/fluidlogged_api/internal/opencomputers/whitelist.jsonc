@@ -1,0 +1,18 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "opencomputers:cable",
+            "opencomputers:keyboard"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "opencomputers:hologram1",
+            "opencomputers:hologram2"
+        ],
+        "boxes": {"min": 0, "max": 3},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]

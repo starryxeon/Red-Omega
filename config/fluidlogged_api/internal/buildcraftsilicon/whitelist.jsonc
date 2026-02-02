@@ -1,0 +1,47 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "buildcraftsilicon:advanced_crafting_table",
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "buildcraftsilicon:assembly_table",
+            "buildcraftsilicon:integration_table"
+        ],
+        "boxes": {"min": 0, "max": 1},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "buildcraftsilicon:laser",
+        "boxes": {"min": 0, "max": 4},
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"facing": "up"}
+    },
+    {
+        "blockId": "buildcraftsilicon:laser",
+        "boxes": {"min": 12, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"facing": "down"}
+    },
+    {
+        "blockId": "buildcraftsilicon:laser",
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": "buildcraftsilicon:laser",
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": "buildcraftsilicon:laser",
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": "buildcraftsilicon:laser",
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": "west"}
+    }
+]

@@ -12,7 +12,7 @@ If you'd be interested in keeping up with Red Omega and you'd like to join our D
 
 ## General Requirements:
 
-Minecraft Forge: 14.23.5.2860 required.
+Minecraft Forge: 14.23.5.2864 required.
 
 6 GB of RAM allocated to Minecraft is recommended for optimal performance.
 
