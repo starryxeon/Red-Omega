@@ -1,0 +1,14 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "buildcraftcore:engine",
+        "boxes": []
+    },
+    {
+        "blockId": [
+            "buildcraftcore:marker_path",
+            "buildcraftcore:marker_volume"
+        ],
+        "canFluidFlow": true
+    }
+]

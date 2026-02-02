@@ -1,0 +1,11 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "advancedrocketry:liquidtank",
+            "advancedrocketry:structuretower",
+            "advancedrocketry:wirelesstransciever"
+        ],
+        "canFluidFlow": true
+    }
+]

@@ -1,0 +1,10 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "aether_legacy:ambrosium_torch",
+            "aether_legacy:treasure_chest"
+        ],
+        "canFluidFlow": true
+    }
+]

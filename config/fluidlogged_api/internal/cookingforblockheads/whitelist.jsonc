@@ -1,0 +1,15 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "cookingforblockheads:cow_jar",
+            "cookingforblockheads:cutting_board",
+            "cookingforblockheads:fruit_basket",
+            "cookingforblockheads:milk_jar",
+            "cookingforblockheads:spice_rack",
+            "cookingforblockheads:toaster",
+            "cookingforblockheads:tool_rack"
+        ],
+        "canFluidFlow": true
+    }
+]

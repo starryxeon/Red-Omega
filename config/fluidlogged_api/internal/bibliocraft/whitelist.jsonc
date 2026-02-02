@@ -1,0 +1,39 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "bibliocraft:armorstand",
+            "bibliocraft:bell",
+            "bibliocraft:bookcase",
+            "bibliocraft:case",
+            "bibliocraft:clock",
+            "bibliocraft:dinnerplate",
+            "bibliocraft:discrack",
+            "bibliocraft:fancysign",
+            "bibliocraft:framedchest",
+            "bibliocraft:label",
+            "bibliocraft:lampgold",
+            "bibliocraft:lampiron",
+            "bibliocraft:lanterngold",
+            "bibliocraft:lanterniron",
+            "bibliocraft:mapframe",
+            "bibliocraft:paintingframeboarderless",
+            "bibliocraft:paintingframefancy",
+            "bibliocraft:paintingframeflat",
+            "bibliocraft:paintingframemiddle",
+            "bibliocraft:paintingframesimple",
+            "bibliocraft:potionshelf",
+            "bibliocraft:seat",
+            "bibliocraft:shelf",
+            "bibliocraft:swordpedestal",
+            "bibliocraft:table",
+            "bibliocraft:toolrack"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "bibliocraft:desk",
+        "boxes": {"min": 14, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]

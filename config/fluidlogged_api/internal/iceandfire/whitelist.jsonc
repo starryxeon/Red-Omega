@@ -1,0 +1,26 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "iceandfire:burnt_torch",
+            "iceandfire:desert_myrmex_cocoon",
+            "iceandfire:dragon_ice_spikes",
+            "iceandfire:dread_torch",
+            "iceandfire:jar_empty",
+            "iceandfire:jar_pixie",
+            "iceandfire:jungle_myrmex_cocoon",
+            "iceandfire:lectern",
+            "iceandfire:pixie_house",
+            "iceandfire:podium"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "iceandfire:goldpile",
+            "iceandfire:silverpile"
+        ],
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"layers": [1, 2, 3, 4, 5, 6, 7]}
+    }
+]

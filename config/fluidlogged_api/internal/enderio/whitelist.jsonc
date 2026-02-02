@@ -1,0 +1,112 @@
+// DO NOT EDIT!
+[
+    {
+        "allowMissing": true,
+        "blockId": [
+            "enderio:block_attractor_obelisk",
+            "enderio:block_aversion_obelisk",
+            "enderio:block_enhanced_wireless_charger",
+            "enderio:block_experience_obelisk",
+            "enderio:block_inhibitor_obelisk",
+            "enderio:block_inventory_panel",
+            "enderio:block_normal_wireless_charger",
+            "enderio:block_relocator_obelisk",
+            "enderio:block_transceiver",
+            "enderio:block_weather_obelisk",
+            "enderio:block_wireless_charger_extension"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "allowMissing": true,
+        "blockId": [
+            "enderio:block_conduit_bundle",
+            "enderio:block_electric_light",
+            "enderio:block_ender_generator",
+            "enderio:block_enderman_skull",
+            "enderio:block_enhanced_alloy_smelter_top",
+            "enderio:block_enhanced_combustion_generator_top",
+            "enderio:block_enhanced_sag_mill_top",
+            "enderio:block_enhanced_vat_top",
+            "enderio:block_enhanced_wired_charger_top",
+            "enderio:block_franken_zombie_generator",
+            "enderio:block_killer_joe",
+            "enderio:block_zombie_generator"
+        ]
+    },
+    {
+        "allowMissing": true,
+        "blockId": [
+            "enderio:block_detector_block",
+            "enderio:block_detector_block_silent"
+        ],
+        "boxes": [{"min": 0, "max": 1}, {"min": 15, "max": 16}],
+        "canFluidFlow": ["north", "south", "east", "west"],
+        "states": {"facing": ["up", "down"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": [
+            "enderio:block_detector_block",
+            "enderio:block_detector_block_silent"
+        ],
+        "canFluidFlow": ["up", "down", "east", "west"],
+        "states": {"facing": ["north", "south"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": [
+            "enderio:block_detector_block",
+            "enderio:block_detector_block_silent"
+        ],
+        "canFluidFlow": ["up", "down", "north", "south"],
+        "states": {"facing": ["east", "west"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": "enderio:block_dialing_device",
+        "boxes": [],
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"facing": ["up_tonorth", "up_tosouth", "up_toeast", "up_towest"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": "enderio:block_dialing_device",
+        "boxes": [],
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"facing": ["down_tonorth", "down_tosouth", "down_toeast", "down_towest"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": "enderio:block_dialing_device",
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": ["north_toup", "north_todown", "north_toeast", "north_towest"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": "enderio:block_dialing_device",
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": ["south_toup", "south_todown", "south_toeast", "south_towest"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": "enderio:block_dialing_device",
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": ["east_toup", "east_todown", "east_tonorth", "east_tosouth"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": "enderio:block_dialing_device",
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": ["west_toup", "west_todown", "west_tonorth", "west_tosouth"]}
+    },
+    {
+        "allowMissing": true,
+        "blockId": "enderio:block_enchanter",
+        "boxes": {"min": 0, "max": 2}
+    }
+]

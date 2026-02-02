@@ -1,0 +1,55 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "randomthings:advanceditemcollector",
+            "randomthings:advancedredstonetorch",
+            "randomthings:advancedredstonetorch_on",
+            "randomthings:blockofsticks",
+            "randomthings:endermailbox",
+            "randomthings:inventorytester",
+            "randomthings:itemcollector",
+            "randomthings:peacecandle",
+            "randomthings:plate_accelerator",
+            "randomthings:plate_accelerator_directional",
+            "randomthings:plate_bouncy",
+            "randomthings:plate_collection",
+            "randomthings:plate_corrector",
+            "randomthings:plate_extraction",
+            "randomthings:plate_filteredredirector",
+            "randomthings:plate_itemrejuvenator",
+            "randomthings:plate_itemsealer",
+            "randomthings:plate_processing",
+            "randomthings:plate_redirector",
+            "randomthings:plate_redstone",
+            "randomthings:plate_redstone_powered",
+            "randomthings:rainshield",
+            "randomthings:slimecube",
+            "randomthings:specialchest",
+            "randomthings:spectrecoil_ender",
+            "randomthings:spectrecoil_genesis",
+            "randomthings:spectrecoil_normal",
+            "randomthings:spectrecoil_number",
+            "randomthings:spectrecoil_redstone",
+            "randomthings:spectreleaf"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "randomthings:advancedredstonerepeater",
+            "randomthings:advancedredstonerepeater_powered",
+            "randomthings:compressedslimeblock",
+            "randomthings:spectrelens"
+        ],
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": [
+            "randomthings:filteredsuperlubricentplatform",
+            "randomthings:platform",
+            "randomthings:superlubricentplatform"
+        ],
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]

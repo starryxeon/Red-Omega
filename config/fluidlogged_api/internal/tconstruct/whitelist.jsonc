@@ -1,0 +1,22 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "tconstruct:punji",
+            "tconstruct:wooden_hopper"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "tconstruct:rack",
+        "canFluidFlow": true,
+        "states": {"drying": false}
+    },
+    {
+        "blockId": [
+            "tconstruct:toolforge",
+            "tconstruct:tooltables"
+        ],
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]

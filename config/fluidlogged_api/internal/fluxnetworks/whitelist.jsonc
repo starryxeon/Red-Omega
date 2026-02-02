@@ -1,0 +1,14 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "fluxnetworks:fluxcontroller",
+            "fluxnetworks:fluxplug",
+            "fluxnetworks:fluxpoint",
+            "fluxnetworks:fluxstorage",
+            "fluxnetworks:gargantuanfluxstorage",
+            "fluxnetworks:herculeanfluxstorage"
+        ],
+        "canFluidFlow": true
+    }
+]

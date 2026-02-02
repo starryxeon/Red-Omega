@@ -1,0 +1,21 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "appliedenergistics2:cable_bus",
+            "appliedenergistics2:charger",
+            "appliedenergistics2:crank",
+            "appliedenergistics2:inscriber",
+            "appliedenergistics2:light_detector",
+            "appliedenergistics2:quantum_link",
+            "appliedenergistics2:quantum_ring",
+            "appliedenergistics2:quartz_fixture",
+            "appliedenergistics2:sky_compass",
+            "appliedenergistics2:sky_stone_chest",
+            "appliedenergistics2:smooth_sky_stone_chest",
+            "appliedenergistics2:tiny_tnt",
+            "appliedenergistics2:wireless_access_point"
+        ],
+        "canFluidFlow": true
+    }
+]

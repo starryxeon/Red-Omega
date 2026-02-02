@@ -1,0 +1,122 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "pneumaticcraft:advanced_air_compressor",
+            "pneumaticcraft:advanced_liquid_compressor",
+            "pneumaticcraft:advanced_pressure_tube",
+            "pneumaticcraft:air_cannon",
+            "pneumaticcraft:air_compressor",
+            "pneumaticcraft:charging_station",
+            "pneumaticcraft:creative_compressor",
+            "pneumaticcraft:elevator_frame",
+            "pneumaticcraft:kerosene_lamp",
+            "pneumaticcraft:liquid_compressor",
+            "pneumaticcraft:liquid_hopper",
+            "pneumaticcraft:omnidirectional_hopper",
+            "pneumaticcraft:plastic_mixer",
+            "pneumaticcraft:pressure_tube",
+            "pneumaticcraft:programmer",
+            "pneumaticcraft:refinery",
+            "pneumaticcraft:security_station",
+            "pneumaticcraft:sentry_turret",
+            "pneumaticcraft:thermal_compressor",
+            "pneumaticcraft:thermopneumatic_processing_plant",
+            "pneumaticcraft:uv_light_box",
+            "pneumaticcraft:vacuum_pump",
+            "pneumaticcraft:vortex_tube"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "pneumaticcraft:assembly_controller",
+            "pneumaticcraft:assembly_drill",
+            "pneumaticcraft:assembly_io_unit",
+            "pneumaticcraft:assembly_laser",
+            "pneumaticcraft:assembly_platform",
+            "pneumaticcraft:electrostatic_compressor"
+        ],
+        "boxes": {"min": 0, "max": 1},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "pneumaticcraft:elevator_base",
+        "boxes": [{"min": 0, "max": 1}, {"min": 15, "max": 16}],
+        "canFluidFlow": ["north", "south", "east", "west"]
+    },
+    {
+        "blockId": "pneumaticcraft:gas_lift",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "pneumaticcraft:heat_sink",
+        "boxes": {"min": 15, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"facing": "up"}
+    },
+    {
+        "blockId": "pneumaticcraft:heat_sink",
+        "boxes": {"min": 0, "max": 1},
+        "canFluidFlow": ["up", "down", "north", "south", "east", "west"],
+        "states": {"facing": "down"}
+    },
+    {
+        "blockId": "pneumaticcraft:heat_sink",
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": "pneumaticcraft:heat_sink",
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": "pneumaticcraft:heat_sink",
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": "pneumaticcraft:heat_sink",
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": "west"}
+    },
+    {
+        "blockId": "pneumaticcraft:pneumatic_dynamo",
+        "boxes": {"min": 0, "max": 10},
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"facing": "up"}
+    },
+    {
+        "blockId": "pneumaticcraft:pneumatic_dynamo",
+        "boxes": {"min": 6, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"facing": "down"}
+    },
+    {
+        "blockId": "pneumaticcraft:pneumatic_dynamo",
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": "pneumaticcraft:pneumatic_dynamo",
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": "pneumaticcraft:pneumatic_dynamo",
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": "pneumaticcraft:pneumatic_dynamo",
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": "west"}
+    },
+    {
+        "blockId": "pneumaticcraft:universal_sensor",
+        "boxes": {"min": 0, "max": 4},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]

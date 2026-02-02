@@ -1,0 +1,47 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "buildcraftfactory:heat_exchange",
+            "buildcraftfactory:tank"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "buildcraftfactory:distiller",
+        "boxes": {"min": 0, "max": 4},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "buildcraftfactory:chute",
+        "boxes": {"min": 9, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"facing": "up"}
+    },
+    {
+        "blockId": "buildcraftfactory:chute",
+        "boxes": {"min": 0, "max": 9},
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"facing": "down"}
+    },
+    {
+        "blockId": "buildcraftfactory:chute",
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": "buildcraftfactory:chute",
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": "buildcraftfactory:chute",
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": "buildcraftfactory:chute",
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": "west"}
+    }
+]
