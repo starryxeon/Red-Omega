@@ -27,6 +27,7 @@ recipes.remove(<randomthings:enderletter>);
 recipes.remove(<aether_legacy:iron_ring>);
 recipes.remove(<aether_legacy:golden_ring>);
 recipes.remove(<minecraft:tnt>);
+recipes.remove(<energyconverters:energy_producer_mj>);
 
 // Main recipe modification
 
@@ -59,6 +60,7 @@ recipes.addShaped(<randomthings:enderletter>, [[null, null, null], [<minecraft:p
 recipes.addShaped(<aether_legacy:iron_ring>, [[<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>], [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>]]);
 recipes.addShaped(<aether_legacy:golden_ring>, [[<minecraft:gold_nugget>, <minecraft:gold_ingot>, <minecraft:gold_nugget>], [<minecraft:gold_ingot>, null, <minecraft:gold_ingot>], [<minecraft:gold_nugget>, <minecraft:gold_ingot>, <minecraft:gold_nugget>]]);
 recipes.addShaped(<minecraft:tnt>, [[<minecraft:gunpowder>, <minecraft:sand>, <minecraft:gunpowder>], [<minecraft:sand>, <minecraft:gunpowder>, <minecraft:sand>], [<minecraft:gunpowder>, <minecraft:sand>, <minecraft:gunpowder>]]);
+recipes.addShaped(<energyconverters:energy_producer_mj>, [[<ore:stone>, <thermalfoundation:material:24>, <ore:stone>], [<minecraft:piston>, <buildcrafttransport:pipe_wood_item>, <minecraft:gold_ingot>], [<ore:stone>, <thermalfoundation:material:24>, <ore:stone>]]);
 
 // Shapeless
 
