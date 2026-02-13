@@ -2,7 +2,7 @@
 
 # Minecraft: Red Omega
 
-A challenging RLCraft-inspired modpack centric on difficulty whilst keeping a tech and magic theme.
+A challenging modpack centric on difficulty whilst keeping a tech and magic theme.
 
 ## Our Discord Server
 
