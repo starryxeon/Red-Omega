@@ -2,7 +2,7 @@
 
 # Minecraft: Red Omega
 
-A challenging modpack centric on difficulty whilst keeping a tech and magic theme.
+A challenging modpack centric on difficulty, exploration, and progression whilst keeping a tech and magic theme.
 
 ## Our Discord Server
 
